@@ -27,5 +27,14 @@ namespace TestGit25
 
         //Flere comments
 
+        public int Divide(int t1, int t2)
+        {
+            if (t2==0)
+            {
+                throw new ArgumentException();
+            }
+            return t1 / t2;
+        }
+
     }
 }
