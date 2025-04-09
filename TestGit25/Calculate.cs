@@ -20,12 +20,19 @@ namespace TestGit25
         }
 
 
+        //endnu en test222
+
+
         //endnu en test
+
 
         public int Multiply(int t1, int t2)
         {
             return t1 * t2;
         }
+
+        // der er nyt fra Feature A
+
 
 
         //Flere comments
@@ -38,6 +45,7 @@ namespace TestGit25
             }
             return t1 / t2;
         }
+
 
     }
 }
