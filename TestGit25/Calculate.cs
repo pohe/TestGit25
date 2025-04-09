@@ -25,6 +25,6 @@ namespace TestGit25
         {
             return t1 * t2;
         }
-
+        // der er nyt fra Feature A
     }
 }
