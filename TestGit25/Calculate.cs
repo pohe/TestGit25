@@ -18,5 +18,10 @@ namespace TestGit25
         {
             return t1 - t2;
         }
+
+        public int Divide(int t1, int t2)
+        {
+            return t1 / t2;
+        }
     }
 }
