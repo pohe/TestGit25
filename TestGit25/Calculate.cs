@@ -8,7 +8,7 @@ namespace TestGit25
 {
     public class Calculate
     {
-
+        //This is a comment
         public int Add(int t1, int t2)
         {
             return t1 + t2;
@@ -23,5 +23,6 @@ namespace TestGit25
         {
             return t1 * t2;
         }
+
     }
 }
