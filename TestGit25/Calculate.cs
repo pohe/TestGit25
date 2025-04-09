@@ -47,5 +47,10 @@ namespace TestGit25
         }
 
 
+        public void PrintResult(int result)
+        {
+            Console.WriteLine( result );
+        }
+
     }
 }
