@@ -24,5 +24,8 @@ namespace TestGit25
             return t1 * t2;
         }
 
+
+        //Flere comments
+
     }
 }
